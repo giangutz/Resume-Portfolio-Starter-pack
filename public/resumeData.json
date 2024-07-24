@@ -1,45 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Gian Carlo Gutierrez",
+    "occupation": "Technical Lead Manager",
+    "description": "I eat, sleep, build and develop",
+    "image": "gian.png",
+    "bio": "Passionate full stack developer driven by creating user-friendly and impactful web applications. With over 3 years of experience, I leverage my diverse programming skillset to craft scalable solutions that solve real-world problems. I thrive on building applications that not only look good but actively improve people's lives.  Currently focused on utilizing React to build modern web experiences.",
+    "contactmessage": "Get in touch with me!",
+    "email": "giancarlogutierrez100@gmail.com",
+    "phone": "+639956513069",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "202 Manuel L. Quezon Street",
+      "city": "Taguig",
+      "state": "Philippines",
+      "zip": "1632"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "#",
+    "resumedownload": "#",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/gian0820",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/giancarlo-gutierrez/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/giangutz/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/giangutz",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +43,42 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "De La Salle University",
+        "degree": "BS Computer Science",
+        "graduated": "October 2023",
+        "description": "Major in Computer Systems Engineering, Athletic Scholarship (Taekwondo)"
+      },
+      {
+        "school": "La Salle Green Hills",
+        "degree": "Science, Technology, Engineering, and Mathematics Program",
+        "graduated": "March 2018",
+        "description": "Br. Rolando Dizon FSC Athletic Scholarship (Taekwondo)"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Arbcentrix Corporation",
+        "title": "Technical Lead Manager",
+        "years": "July 2024 - Present",
+        "description": "Lead a team of developers to develop and maintain web applications using React, NextJS, and Engaging Networks. Collaborated with clients to develop and implement new features. Managed high-profile clients."
+      },
+      {
+        "company": "Arbcentrix Corporation",
+        "title": "Full Stack Engineer",
+        "years": "December 2023 - June 2024",
+        "description": "Designed and developed scalable web applications using a hybrid approach (Wix, Webflow, Wordpress for rapid prototyping and Django-React/NextJS for complex features). Boosted client lead generation by 40% through a 40% reduction in page load times. Managed high-profile clients."
+      },
+      {
+        "company": "RFEX",
+        "title": "Machine Learning Engineer, Full Stack Developer",
+        "years": "July 2022 - October 2023",
+        "description": "Led a research project on an AI-powered system for road physical feature detection. Developed a Flask website with MongoDB for data management and Google Drive for backup."
+      },
+      {
+        "company": "CASHALO",
+        "title": "Software Engineer Intern",
+        "years": "August 2022 - November 2022",
+        "description": "Contributed to financial technology product development, focusing on automation and backend systems. Collaborated with engineers to deliver high-quality code. Participated in agile development practices."
       }
     ],
     "skills": [
@@ -69,53 +88,47 @@
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "100%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "DevFlow",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "devflow.svg",
+        "url": "https://jsm-stackoverflow-giangutz.vercel.app"
       },
       {
         "title": "Gmail Clone (React JS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "ggtkd.webp",
+        "url": "https://ggtaekwondo.vercel.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Gian is a fantastic teammate! His problem-solving skills are top-notch, and he always finds a way to deliver solutions that are both efficient and user-friendly. He's a great asset to the team.",
+        "user": "Maria Santos, Back-End Developer"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "I've had the pleasure of working with Gian on several projects, and his dedication to building real-world applications that make a difference is truly inspiring. He's a highly skilled developer who's always willing to go the extra mile to help others. A true team player!",
+        "user": "Mark Bautista, Project Manager"
       }
     ]
   }
